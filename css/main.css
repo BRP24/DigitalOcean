@@ -31,6 +31,10 @@ button {
 	cursor: pointer;
 }
 
+::-webkit-scrollbar {
+	display: none;
+}
+
 .container {
 	max-width: 1174px;
 	margin-right: auto;
